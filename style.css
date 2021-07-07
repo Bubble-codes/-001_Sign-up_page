@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  background-color: #B8DFD8;
+}
+
+.fish{
+  position: absolute;
+  z-index: 2;
+  height: 250px;
+  right: 1300px;
+  bottom: 580px;
+
+}
+
+.animate__animated.animate__fadeIn {
+  --animate-duration: 4s;
+}
+
+
+.turtle{
+  height: 47rem;
+  width: 83rem;
+  position: absolute;
+  right: 270px;
+}
+
+
+
+
+
+.sign-up{
+  background-color: #38817A;
+  position:absolute;
+  z-index: 1;
+  top: 52px;
+  right: 50px;
+  padding: 170px 50px;
+  border-radius: 15px 50px;
+}
+
+
+table {
+  border-spacing: 10px;
+}
+
+
+button{
+  position: relative;
+  top: 30px;
+  left: 170px;
+}
+
+h6{
+  text-align: center;
+  position: relative;
+  top: 120px;
+}
